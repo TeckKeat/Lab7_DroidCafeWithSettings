@@ -1,0 +1,4 @@
+#Mon Dec 31 12:30:41 MYT 2018
+base.0=/Users/TeckKeat/AndroidStudioProjects/DroidCafeWithSettings/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
